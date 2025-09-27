@@ -1,4 +1,4 @@
-# TO-DO-WEB-PAGE
+# TO-DO-LIST-WEB-PAGE
 1. Introduction
 
 This project is a simple To-Do List Web Application designed to help users manage daily tasks efficiently.
